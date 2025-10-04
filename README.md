@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im 𝕍 𝕊𝕣𝕚ℍ𝕒𝕣𝕚😉
+I'm 𝓥 𝓢𝓻𝓲𝓗𝓪𝓻𝓲😉
 
 # 💫 About Me:
 ☕ <br>    🌟 Java Full Stack Engineer leveraging <br><br>  • Core Java and Spring Boot to build complete web applications.<br><br>☁️ <br>   🌟 DevOps Enthusiast proficient with key tools like <br><br>  •Docker, Kubernetes, Jenkins, Git, Maven and Terraform.<br><br><br>🌐 Experienced with <br><br> ☁️AWS Cloud <br>      <br>         #Compute services  >> EC2, EC2 Autoscaling, Lambda.<br>         #Storage >> EBS, S3.<br>         #Security&identity >> IAM.<br>         #Operations >>Cloud watch.<br>         #Networking&Content Delivery >> VPC , ELB.<br>         #Route53.<br>         #Database >> RDS.<br>         #Application integration >> SNS.  <br>      And<br>      Linux scripting  for deployment and infrastructure.<br><br><br>💻 Core <br><br>  •Web Technologies (HTML, CSS, JavaScript) used to create dynamic, responsive frontends.<br><br><br>💡 Strong grasp on<br><br>  •SQL/MySQL for database interaction.
